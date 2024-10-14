@@ -1,0 +1,53 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "dateOfBirth": "2015-12-12",
+      "email": "a@gmail.com",
+      "address": "Ha Noi",
+      "status": true
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản phẩm A",
+      "price": 10000,
+      "quantity": 84,
+      "img": "https://i.pinimg.com/474x/d1/6f/5f/d16f5ff80eddfa4e9425113570e139fd.jpg",
+      "detail": "Chụp ảnh sản phẩm là một lĩnh vực nhiếp ảnh quan trọng đặc biệt trong kinh doanh online hay thương mại điện tử.",
+      "newQuantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Sản phẩm B",
+      "price": 20000,
+      "quantity": 12,
+      "newQuantity": 1,
+      "img": "https://i.pinimg.com/474x/9a/2c/73/9a2c73f61f0ecdd357e6423e7edb24c9.jpg",
+      "detail": "Chụp ảnh sản phẩm là một lĩnh vực nhiếp ảnh quan trọng đặc biệt trong kinh doanh online hay thương mại điện tử."
+    },
+    {
+      "id": 3,
+      "name": "Sản phẩm C",
+      "price": 30000,
+      "quantity": 26,
+      "newQuantity": 1,
+      "img": "https://i.pinimg.com/474x/13/87/30/13873099dd0603618d0358dab97da4b2.jpg",
+      "detail": "Chụp ảnh sản phẩm là một lĩnh vực nhiếp ảnh quan trọng đặc biệt trong kinh doanh online hay thương mại điện tử."
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "productId": 1,
+      "quantity": 6
+    },
+    {
+      "id": 1728923308440,
+      "productId": 2,
+      "quantity": 3
+    }
+  ]
+}
